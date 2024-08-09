@@ -4,12 +4,15 @@ package br.com.guilhermevillaca;
 /**
  *
  * @author 10380
+ * 
+ * Comentario de teste
  */
 public class FiguraGeometrica {
     
     //circulo
     public void calcularArea(int raio){
         System.out.println(raio);
+        System.out.println("Teste para enviar ao git");
     }
     
     //retangulo
